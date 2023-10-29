@@ -1,3 +1,6 @@
+# this file wrote on NotePad++ and Run using GitBash as training on scripting python
+
+
 how_many_snakes = 3
 snake_string = """
 Welcome to Python3!
